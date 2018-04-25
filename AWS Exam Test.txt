@@ -7,3 +7,5 @@ This is the third version for cross-replication text
 This is version 4 for replication from dublin to tokyo
 
 Version 5 with access privileges set in dublin
+
+Some new test text
